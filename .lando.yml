@@ -1,0 +1,4 @@
+name: drupal-custom
+recipe: drupal10
+config:
+  webroot: web
